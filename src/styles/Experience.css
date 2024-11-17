@@ -1,0 +1,41 @@
+.experience {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+  }
+  
+  .experience form input,
+  .experience form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #c6c6c6;
+    border-radius: 5px;
+  }
+  
+  .experience form textarea {
+    resize: vertical;
+    min-height: 60px;
+  }
+  
+  .experience button {
+    padding: 8px 12px;
+    background-color: #ffc107;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .experience button:hover {
+    background-color: #e0a800;
+  }
+  
+  .experience p {
+    margin: 8px 0;
+    color: #444;
+  }
+  

@@ -1,0 +1,37 @@
+.education {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #e3e3e3;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education form input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+  }
+  
+  .education button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .education button:hover {
+    background-color: #218838;
+  }
+  
+  .education p {
+    font-size: 16px;
+    color: #333;
+    margin: 5px 0;
+  }
+  
