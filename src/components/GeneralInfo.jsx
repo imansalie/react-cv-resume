@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './styles/GeneralInfo.css';
+import '../styles/GeneralInfo.css';
 
 function GeneralInfo() {
   const [isEditing, setIsEditing] = useState(true);
