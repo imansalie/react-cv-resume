@@ -1,8 +1,22 @@
-# React + Vite
+CV/Resume Builder
+This is a CV/Resume Builder web application, designed to help users create and manage their resumes online. It features sections for personal details, education, experience, and more, with an editable mode that allows users to update their information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+Editable Fields: Users can edit their information (e.g., name, email, phone) and submit changes.
+Resume Sections: The app includes sections like education and work experience to structure the resume.
+Responsive Design: The app is designed to be fully responsive and works across different devices.
+Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React: For building the UI and managing state.
+CSS: For styling the components.
+Vite: For fast development and production builds.
+Setup Instructions
+Prerequisites
+
+Node.js (version 14 or higher)
+npm (comes with Node.js)
+
+Deployment to Cloudflare
+This app is deployed to Cloudflare Pages for free hosting. The deployment is connected to this GitHub repository,live version: 
+
